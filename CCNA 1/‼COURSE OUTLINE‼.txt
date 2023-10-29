@@ -1,0 +1,20 @@
+‼COURSE OUTLINE‼
+- Network Devices
+- Packet Tracer
+- Interface and Cables
+-OSI Model
+-TCP/IP Suite
+- Ethernet Switching
+- IPv4 Addressing (Understanding the various classes)
+- IPv4 Configuration
+- Routing Fondamentals
+*Static Routing
+*Static Route Configuration
+* Static Route troubleshooting
+- The life of a packet
+- Subnetting
+- VLANs
+
+ASSIGNMENT
+3 Inflencial Network Engineers in  Cameroon.
+Download and install cisco packet tracer

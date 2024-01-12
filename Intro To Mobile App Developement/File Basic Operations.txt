@@ -1,0 +1,37 @@
+File Basic Operations
+- File rename | file creation | file deletion = Document page == Artur Johann *
+- file copy | file cut + MS | file paste = Music page == Martin Junior *
+- file locking | Hide, unhide file | file sharing = Image page == Madick Ange *
+
+- Folder rename | Folder creation | Folder deletion = Home page == Nde dilan *
+- Folder copy | Folder cut + MS | Folder paste = Storage page == Marie Rosine *
+- Folder locking | Hide Folder | Folder sharing = Storage page == Edima Johnson *
+
+- file properties view (view path | size | extension | metadata display) = video page == MBAH DAVID *
+- Quick access | File Recent | short cut = Recent page == TAKEM Emmanuel -
+Folder Navigation
+- Forward | Go to home | auto organisation = Top tool bar (recent page) ==  Thomson *
+File recovery (Recycle Bin)
+- Restore | Restore + MS | Delete Permenantly = Recycle bin page == Ange *
+Cloud Functionalities
+- File Upload | Cloud synchronization | File Download = Cloud page == Libby Minga *
+File Preview
+- Video Player | Image Player | Thumbnail preview = video & Image pages == GAËTAN *
+- Music View | Pdf reader | list preview = music & pdf pages == Faith Jane * 
+File Search and Sort Functionalities
+- File sort | file search | File tag = Download Page == JORDAN IVAN *
+FILE Archiving
+- Compression | extraction | Move = Storage page == Takang Joshua *
+File Download Management 
+- Pause, Resume, cancel, prioritize ongoing download, show download = download page == Fandom bernes *
+Setting
+- Multi-Language Support | Theme (Dark Mode) | User Profile Management = Setting page == Nopole Favour * 
+Contact Us
+- Address and Help center | Rating us | Feedback mechanism = Help page == Tayong fritz -
+	
+Utility
+- Junk cleaning | CPU cooler | Battery saver = Phone health page == TIM RODNEY DAVIS -
+- Antivirus scanner | Phone boost | Duplicate file = Phone health page == Mkong Eleazar -
+Document scanning | productivity integration Eg google doc, MS | auto file backup = cloud page == AZHINWI JOANNES -
+
+File version comparison
